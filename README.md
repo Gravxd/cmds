@@ -7,4 +7,4 @@ You don't need to be a smartass and comment on the format, it works and i only d
 Thanks & enjoy!
 
 # Unban
-Usage: `-unban [id]`
+Usage: `!unban [id]` (The ! is whatever your prefix is within your main file)
