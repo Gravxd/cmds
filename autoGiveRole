@@ -1,4 +1,0 @@
-client.on('guildMemberAdd', member => {
-  const role = member.guild.roles.find(r => r.id === 'roleidhere')
-  member.addRole(role.id)
-})
